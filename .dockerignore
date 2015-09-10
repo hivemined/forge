@@ -1,0 +1,9 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+LICENSE
+
+#installer files
+installers/
